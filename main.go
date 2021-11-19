@@ -6,5 +6,4 @@ import (
 
 func main() {
 	homework009.Task1()
-	homework009.Task2()
 }
